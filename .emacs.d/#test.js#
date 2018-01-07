@@ -1,0 +1,7 @@
+as
+
+function str() {
+	console.log('hehehe');
+}
+
+str();
