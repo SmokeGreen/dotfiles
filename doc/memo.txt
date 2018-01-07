@@ -8,3 +8,6 @@ sudo apt-get autpremove
 # n でインストールできるバージョン一覧
 n ls
 
+## git
+user.name "dev01"
+user.email "dev01@example.com"
