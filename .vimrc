@@ -8,3 +8,5 @@ set showmatch
 set smartindent
 set tabstop=2
 set nowrapscan
+set shiftwidth=2
+
