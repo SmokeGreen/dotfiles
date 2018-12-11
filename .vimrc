@@ -9,4 +9,6 @@ set smartindent
 set tabstop=2
 set nowrapscan
 set shiftwidth=2
+set showmode
+set laststatus=2
 
